@@ -1,0 +1,85 @@
+.divpai{
+    background-color: rgb(174, 211, 243);
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    color: black;
+    font-size: 30px;
+}
+h2 {
+    font-size: 20px;
+    color:black
+}
+p{
+    font-size: 20px;
+    color: black;
+}
+.experiencia{
+    font-size: 20px;
+    color: black;
+}
+.card{
+    width: 90%;
+    height: 100px;  
+    max-width: 3000px;
+    min-height: 130px;
+    font-size: 20px;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center; 
+    border-radius: 30px;
+    background-color: rgb(221, 220, 220);
+    padding: 25;
+
+}
+.experiencia {
+    font-size: 25px;
+    margin-bottom: 30px;
+
+}
+.ul {
+    font-size: 30px;
+list-style: none;
+
+}
+.li {
+    font-size:20px;
+    margin: 30px;
+}
+ 
+.di{
+    width: 95%;
+    height: 100px;  
+    max-width: 1000px;
+    min-height: 130px;
+    font-size: 20px;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center; 
+    border-radius: 25px;
+    background-color: rgb(221, 220, 220);
+    padding: ;
+
+}
+.contatos {
+  width: 90%;
+    height: 100px;  
+    max-width: 3000px;
+    min-height: 130px;
+    font-size: 15px;
+display: flex;
+flex-direction: column;
+justify-content: center; 
+align-items: center;
+    border-radius: 30px;
+    background-color: rgb(221, 220, 220);
+    padding: 25;
+
+}
